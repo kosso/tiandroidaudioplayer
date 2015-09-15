@@ -1,0 +1,19 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: tiandroidaudioplayer
+author: Kosso
+license: MIT
+copyright: 2015
+
+# these should not be edited
+name: tiandroidaudioplayer
+moduleid: com.kosso.tiandroidaudioplayer
+guid: e940c5db-ae1c-4f9d-8d85-35af45c26919
+platform: android
+minsdk: 4.0.0.GA
+#minsdk: 4.1.0.v20150601234429
